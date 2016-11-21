@@ -1,2 +1,3 @@
 # hello-world
-quatsch
+quatsch $\theta$ how does latex works?
+
